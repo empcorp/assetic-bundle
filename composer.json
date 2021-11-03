@@ -1,8 +1,8 @@
 {
-    "name": "sanpi/assetic-bundle",
-    "description": "Integrates Assetic into Symfony2",
+    "name": "empcorp/assetic-bundle",
+    "description": "Integrates Assetic into Symfony4",
     "keywords": ["assets", "compression", "minification"],
-    "homepage": "https://github.com/sanpii/AsseticBundle",
+    "homepage": "https://github.com/empcorp/AsseticBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
@@ -21,7 +21,7 @@
         "symfony/http-kernel": "~2.3|~3.0|~4.0",
         "symfony/templating": "~2.3|~3.0|~4.0",
         "symfony/yaml": "~2.3|~3.0|~4.0",
-        "empcorp/assetic": "1.0"
+        "empcorp/assetic": "1.0.1"
     },
     "require-dev": {
         "patchwork/jsqueeze": "~1.0",
