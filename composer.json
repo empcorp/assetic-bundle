@@ -5,6 +5,12 @@
     "homepage": "https://github.com/empcorp/AsseticBundle",
     "type": "symfony-bundle",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/empcorp/assetic"
+        }
+    ],
     "authors": [
         {
             "name": "Kris Wallsmith",
